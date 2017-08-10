@@ -356,4 +356,15 @@ h4 {
     border: 1px solid #dddddd;
 }
 
+h1 {
+    margin: 0;
+    float: none;
+
+}
+
+nav {
+    float: none;
+    text-align: center;
+}
+
 }
